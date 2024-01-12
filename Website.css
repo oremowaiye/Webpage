@@ -1,0 +1,49 @@
+* {
+    background-color:rgb(20, 18, 18);
+    color: aliceblue;
+}
+
+    
+
+#pageheading {
+    color: rgb(230, 240, 241);
+    text-align: center;
+    font-family:monospace 
+    ;
+    background-color: rgb(92, 109, 186);
+   
+    
+   
+}
+div{
+    background-image:url(https://th.bing.com/th/id/R.53a3de099c1a61f484b7b36d4e47d8e3?rik=Ci8xZJxP7%2bdlwA&pid=ImgRaw&r=0);
+  text-align: center;
+  border: 5px solid rgb(62, 66, 67);
+  margin: 0px;
+  
+}
+.dishes{
+    background-color:rgb(54, 52, 52);
+    width: 600;
+   
+
+
+}
+
+.details{
+    /* border: 1000; */
+    border: 10px solid black;
+
+    margin: 0px;
+    
+    /* padding: 0px;
+    height: 0px;
+    width: 0px; */
+}
+
+.title{
+    background-color: rgb(44, 47, 47);
+}
+.location{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
