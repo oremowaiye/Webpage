@@ -11,15 +11,18 @@
     font-family:monospace 
     ;
     background-color: rgb(92, 109, 186);
+
    
     
    
 }
+
 div{
     background-image:url(https://th.bing.com/th/id/R.53a3de099c1a61f484b7b36d4e47d8e3?rik=Ci8xZJxP7%2bdlwA&pid=ImgRaw&r=0);
-  text-align: center;
-  border: 5px solid rgb(62, 66, 67);
-  margin: 0px;
+   text-align: center;
+   border: 5px solid rgb(62, 66, 67);
+   margin: 0px;
+ 
   
 }
 .dishes{
@@ -46,4 +49,10 @@ div{
 }
 .location{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header{
+    position: sticky;
+    top: 0px;
+
 }
